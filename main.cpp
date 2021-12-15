@@ -1,6 +1,5 @@
 /*
     This is a simple C++ program that prints clean bar graphs in the terminal based on user input
-    It makes use of heap-allocated arrays
     --- Written by mzukiyo
 */
 
